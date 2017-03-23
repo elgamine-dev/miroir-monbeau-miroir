@@ -1,0 +1,33 @@
+* {
+  box-sizing:border-box;
+}
+
+body {
+  background-color: #000;
+  color:#fff;
+  font-family: Rajdhani;
+}
+
+.container {
+  max-width:600px;
+  margin:0 auto;
+  display:flex;
+}
+
+.meteo-box {
+  font-size:2em;
+  text-align: center;
+}
+
+.component {
+  width: 300px;
+  
+}
+
+.meteo-box i {
+  font-size: 6em;
+}
+
+.meteo-box span {
+  font-size:4em;
+}
